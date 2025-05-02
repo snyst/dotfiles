@@ -1,0 +1,14 @@
+[alias]
+        a = add
+        b = branch
+        cm = commit
+        cmm = commit -m
+        co = checkout
+        d = diff
+        lg = log --oneline --graph --all
+        pl = pull
+        ps = push
+        rh = reset HEAD
+        s = status
+        st = stash
+        stp = stash pop
