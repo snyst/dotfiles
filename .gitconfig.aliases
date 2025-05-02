@@ -1,5 +1,6 @@
 [alias]
         a = add
+        aa = add .
         b = branch
         cm = commit
         cmm = commit -m
