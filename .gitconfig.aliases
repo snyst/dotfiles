@@ -9,7 +9,7 @@
         d = diff
         lg = log --oneline --graph --all
         pl = pull
-        ps = push
+        ps = push -u origin HEAD
         s = status
         st = stash
         stp = stash pop
