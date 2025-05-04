@@ -10,7 +10,8 @@
         lg = log --oneline --graph --all
         pl = pull
         ps = push
-        rh = reset HEAD
         s = status
         st = stash
         stp = stash pop
+        unst = reset HEAD
+        uncm = reset --soft HEAD~1
