@@ -6,6 +6,7 @@
         cmm = commit -m
         co = checkout
         cob = checkout -b
+        com = checkout main
         d = diff
         lg = log --oneline --graph --all
         pl = pull
